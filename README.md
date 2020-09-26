@@ -26,6 +26,6 @@
 <a href="https://t.me/ArthurDev20">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=ArturVargas.ArturVargas)
+![Visitor Count](https://profile-counter.glitch.me/ArturVargas/count.svg)
 </p>
 
