@@ -9,10 +9,10 @@
 
 <h3>🛠 Tech Stack and Tools</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Angular 2+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSql
 - 🔧 &nbsp; Git | Markdown
-- 🖥 &nbsp; Solidity| Truffle | Figma
+- 🖥 &nbsp; Solidity| Truffle | Figma | Hardhat
 
 <br/>
 
@@ -23,8 +23,7 @@
 <a href="https://mx.linkedin.com/in/arturocastanonvargas/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ArthurDev20">
+<a href="https://t.me/lil_code">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 </p>
-
