@@ -15,6 +15,10 @@
 
 <br/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ArturVargas&show_icons=true&count_private=true&layout=compact&theme=highcontrast" />
+</a>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
